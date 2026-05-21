@@ -19,3 +19,8 @@ A ferramenta permite avaliar controles de segurança com base na ISO/IEC 27002, 
 - Não se aplica
 
 Além disso, o sistema armazena auditorias para análise histórica e comparativa, oferecendo uma visão clara da evolução da conformidade da organização ao longo do tempo.
+
+### Repositórios do Projeto
+[Documentação](https://github.com/securityprojecti/docs)
+Backend: (adicionar link)
+Frontend: (adicionar link)
