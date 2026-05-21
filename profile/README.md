@@ -1,1 +1,21 @@
-#Projeto de Segurança I (PSI)
+# Projeto de Segurança I (PSI)
+
+**Disciplina:** Segurança da Informação
+
+**Curso:** Sistemas de Informação – IFC Campus Araquari
+
+**Equipe:** Gustavo, Maria, Rafael
+
+## Ferramenta de Diagnóstico de Conformidade ISO 27001 / 27701
+Este projeto tem como objetivo o desenvolvimento de uma ferramenta para auxiliar no diagnóstico de conformidade de organizações com base nas normas:
+
+ISO/IEC 27001 (Sistema de Gestão de Segurança da Informação)
+ISO/IEC 27701 (Privacidade da Informação)
+
+A ferramenta permite avaliar controles de segurança com base na ISO/IEC 27002, classificando-os como:
+
+- Conforme
+- Não conforme
+- Não se aplica
+
+Além disso, o sistema armazena auditorias para análise histórica e comparativa, oferecendo uma visão clara da evolução da conformidade da organização ao longo do tempo.
