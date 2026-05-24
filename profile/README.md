@@ -28,6 +28,6 @@ Além disso, o sistema armazena auditorias para análise histórica e comparativ
 [Frontend](https://github.com/securityprojecti/psi-frontend)
 
 ### Deploy
-[Frontend](https://psi-frontend-7wrz.onrender.com/companies)
+[Frontend](https://psi-frontend-7wrz.onrender.com)
 
 [API](https://psi-backend-xtay.onrender.com/api/v1/swagger/)
