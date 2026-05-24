@@ -4,7 +4,7 @@
 
 **Curso:** Sistemas de Informação – IFC Campus Araquari
 
-**Equipe:** Gustavo, Maria, Rafael
+**Equipe:** Gustavo, Maria Eduarda, Rafael
 
 ## Ferramenta de Diagnóstico de Conformidade ISO 27001 / 27701
 Este projeto tem como objetivo o desenvolvimento de uma ferramenta para auxiliar no diagnóstico de conformidade de organizações com base nas normas:
@@ -23,6 +23,11 @@ Além disso, o sistema armazena auditorias para análise histórica e comparativ
 ### Repositórios do Projeto
 [Documentação](https://github.com/securityprojecti/docs)
 
-Backend: (adicionar link)
+[Backend](https://github.com/securityprojecti/psi-backend)
 
-Frontend: (adicionar link)
+[Frontend](https://github.com/securityprojecti/psi-frontend)
+
+### Deploy
+[Frontend](https://psi-frontend-7wrz.onrender.com/companies)
+
+[API](https://psi-backend-xtay.onrender.com/api/v1/swagger/)
